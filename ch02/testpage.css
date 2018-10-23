@@ -1,0 +1,14 @@
+body {
+	
+}
+h1 {
+	color: coral;
+}
+img  {
+	float: right;
+	margin: 0 1em;
+}
+p {
+	margin: 0;
+	padding-bottom: .5em;
+}
