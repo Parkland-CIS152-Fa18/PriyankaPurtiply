@@ -1,2 +1,2 @@
 # PriyankaPurtiply
-This is my first repository for the Partner Basic Design Assignment.
+This is my first commit in github.
